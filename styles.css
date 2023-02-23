@@ -1,2 +1,26 @@
-
+.container-fluid{
+	width:800;
+	display:flex;
+	flex-direction:row;
+}
+.first-row{
+	display: flex;
+	flex-flow: row wrap;	
+	justify-content: space-between;
+}
+.second-row{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+.third-row{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+.fourth-row{
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
 /* Your CSS Code here. */
